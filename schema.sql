@@ -26,3 +26,7 @@ USE employee_db;
         manager_id INT,
         PRIMARY KEY (id)
     );
+
+SELECT * FROM employees;
+SELECT * FROM departments;
+SELECT * FROM roles;
