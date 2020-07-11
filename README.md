@@ -15,11 +15,16 @@
 
 https://github.com/brw1820/12-employee-tracker
 
+
   ## Usage
   This repository contains an employee tracker program using node.js and express.js.  First, ensure you have nodemon and express installed on your computer, as well as console.table, mysql, and inquirer and MySQL Workbench.  Within the app.js file, proceed to put your password for MySQL Workbench if the empty field.  Each can be installed by running 'npm install' and the name of the application in your command line.  Open server.js in your source code editor such as Visual Studio Code or iTerm by running "node app.js".
 
 
  ![gif](./Assets/employeetracker.gif)
+
+Link to video on using the application:
+
+https://drive.google.com/file/d/1uTFBd0oWXubVrHiTge89V87nZQ2SQISU/view
 
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
